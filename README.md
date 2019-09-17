@@ -8,7 +8,7 @@ I have been asked on multiple occasions which VS Code Extensions I use. So, here
 To add an extension to your VS Code from the list below, **copy** _and_ **paste** the command associated with the extension into your terminal.
 
 ## Extensions
-### [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+### [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) `Highly Recommended`
 A rainbow brackets extension for VS Code.
 
 `code --install-extension 2gua.rainbow-brackets`
@@ -18,12 +18,12 @@ VS Code Plugin for CloudFormation
 
 `code --install-extension aws-scripting-guy.cform`
 
-### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) `Highly Recommended`
 Integrates ESLint JavaScript into VS Code.
 
 `code --install-extension dbaeumer.vscode-eslint`
 
-### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) `Highly Recommended`
 View git log, file history, compare branches or commits
 
 `code --install-extension donjayamanne.githistory`
@@ -33,7 +33,7 @@ Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 
 `code --install-extension dsznajder.es7-react-js-snippets`
 
-### [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+### [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) `Highly Recommended`
 Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 
 `code --install-extension eamodio.gitlens`
@@ -53,7 +53,7 @@ Extension provides basic jenkinsfile support (highlighting, snippets and complet
 
 `code --install-extension ivory-lab.jenkinsfile-support`
 
-### [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+### [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) `Highly Recommended`
 Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
 
 `code --install-extension johnpapa.vscode-peacock`
@@ -108,17 +108,17 @@ C# for Visual Studio Code (powered by OmniSharp).
 
 `code --install-extension ms-vscode.csharp`
 
-### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) `Highly Recommended`
 Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 
 `code --install-extension msjsdiag.debugger-for-chrome`
 
-### [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+### [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) `Highly Recommended`
 Makes indentation easier to read
 
 `code --install-extension oderwat.indent-rainbow`
 
-### [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+### [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) `Highly Recommended`
 Use Facebook's Jest With Pleasure.
 
 `code --install-extension Orta.vscode-jest`
