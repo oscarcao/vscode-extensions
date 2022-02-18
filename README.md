@@ -58,15 +58,10 @@ Subtly change the workspace color of your workspace. Ideal when you have multipl
 
 `code --install-extension johnpapa.vscode-peacock`
 
-### [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
-A beautifully warm dual theme for Visual Studio Code
+### [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+Github theme for Visual Studio Code (contains both light and dark themes)
 
-`code --install-extension jolaleye.horizon-theme-vscode`
-
-### [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
-Syntax highlighting for styled-components
-
-`code --install-extension jpoissonnier.vscode-styled-components`
+`code --install-extension GitHub.github-vscode-theme`
 
 ### [Starbound JSON File Syntax](https://marketplace.visualstudio.com/items?itemName=KyleeTehKitty.StarboundJson)
 Json syntax support for Starbound content files. (.object, .recipe, etc..)
